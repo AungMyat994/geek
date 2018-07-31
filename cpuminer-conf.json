@@ -1,0 +1,21 @@
+{
+	"_comment1" : "Any long-format command line argument ",
+	"_comment2" : "may be used in this JSON configuration file",
+
+	"api-bind" : "192.168.1.152:4048",
+
+	"url" : "stratum+tcp://192.168.1.152:3333",
+	"user" : "TujMJPkAbMqo5RPzX5sx9RLzPndvWHxQZ9",
+	"pass" : "x",
+
+	"algo" : "geek",
+	"threads" : 0,
+	"cpu-priority" : 0,
+	"cpu-affinity" : -1,
+
+	"benchmark" : false,
+	"debug" : false,
+	"protocol": false,
+	"show-diff": true,
+	"quiet" : false
+}
