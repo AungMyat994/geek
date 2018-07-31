@@ -1,0 +1,33 @@
+From 2a98842517656691e1994d3e5799fae8a12c0acc Mon Sep 17 00:00:00 2001
+From: Aung Aung Phyo <aungaungphyo.eainpyay@gmail.com>
+Date: Wed, 1 Aug 2018 05:29:03 +0630
+Subject: [PATCH] test
+
+---
+ id1263133106 | 0
+ text.txt     | Bin 0 -> 195 bytes
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 id1263133106
+ create mode 100644 text.txt
+
+diff --git a/id1263133106 b/id1263133106
+new file mode 100644
+index 0000000..e69de29
+--- /dev/null
++++ b/id1263133106
+diff --git a/text.txt b/text.txt
+new file mode 100644
+index 0000000000000000000000000000000000000000..ba4dfd06f1c4e64986c5876dcf1c42e7b1a5588f
+GIT binary patch
+literal 195
+zc$`Zr$jK}&F)+Bo$i&RT%ErkRp;DGwRGgWg7on1$l$DxXQXHw0Sd^TR2^0=dDakJo
+zVqk1ru!x-_R3)!8CnsLOJTt}6$jsQ#*x1m(jEgHhv%~?2GfI>6lJj$|982@keJc}7
+zEG>=o(^FHk6$}haElkoZxVYj4`2B*tQ!7(b9HGWv<mL$}%Fi!pVB`>#Qr0yxw{ocJ
+T>7T*?28@glnt_)A6-)yFaxF6-
+
+literal 0
+Hc$@<O00001
+
+--
+Working Copy 3.4.3
+
